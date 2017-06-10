@@ -1,0 +1,29 @@
+{
+  "name": "watchtower",
+  "version": "1.0.0",
+  "description": "An app that analyzes and scores extremist sentiments on Twitter.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ccheng26/watchtower.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ccheng26/watchtower/issues"
+  },
+  "homepage": "https://github.com/Ccheng26/watchtower#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "method-override": "^2.3.9",
+    "mustache": "^2.3.0",
+    "mustache-express": "^1.2.4",
+    "pg-promise": "^5.9.0",
+    "twitter": "^1.7.0"
+  }
+}
