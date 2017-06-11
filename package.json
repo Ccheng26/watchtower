@@ -20,9 +20,11 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "express-session": "^1.15.3",
+    "fetch": "^1.1.0",
     "method-override": "^2.3.9",
     "mustache": "^2.3.0",
     "mustache-express": "^1.2.4",
+    "node-fetch": "^1.7.1",
     "pg-promise": "^5.9.0",
     "twitter": "^1.7.0"
   }
